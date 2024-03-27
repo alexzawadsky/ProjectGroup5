@@ -67,13 +67,9 @@ namespace SomerenDAL
             SqlParameter[] sqlParameters = new SqlParameter[]
             {
             new SqlParameter("@DrinkID", idCount),
-
-            new SqlParameter("@DrinkType", drinkName),
-        
+            new SqlParameter("@DrinkType", drinkName),       
             new SqlParameter("@IsAlcoholic", isAlcoholic ? 1 : 0),
-
             new SqlParameter("@Stock", stock),
-
             new SqlParameter("@Price", price)
             };
 

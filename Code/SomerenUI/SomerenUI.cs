@@ -370,5 +370,10 @@ namespace SomerenUI
 
             outResult.Text = dao.DeleteDrink(drink);
         }
+
+        private void listViewStudents_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Working");
+        }
     }
 }

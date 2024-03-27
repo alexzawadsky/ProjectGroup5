@@ -6,6 +6,7 @@ using System;
 using SomerenDAL;
 
 //Test comment for git
+// new test comment
 //New test
 
 namespace SomerenUI

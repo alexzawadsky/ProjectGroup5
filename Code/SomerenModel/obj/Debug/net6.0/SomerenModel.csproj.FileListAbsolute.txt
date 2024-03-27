@@ -1,0 +1,34 @@
+C:\Users\gerwin.vandijken\source\repos\Someren\SomerenModel\bin\Debug\net6.0\SomerenModel.deps.json
+C:\Users\gerwin.vandijken\source\repos\Someren\SomerenModel\bin\Debug\net6.0\SomerenModel.dll
+C:\Users\gerwin.vandijken\source\repos\Someren\SomerenModel\bin\Debug\net6.0\SomerenModel.pdb
+C:\Users\gerwin.vandijken\source\repos\Someren\SomerenModel\obj\Debug\net6.0\SomerenModel.csproj.AssemblyReference.cache
+C:\Users\gerwin.vandijken\source\repos\Someren\SomerenModel\obj\Debug\net6.0\SomerenModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gerwin.vandijken\source\repos\Someren\SomerenModel\obj\Debug\net6.0\SomerenModel.AssemblyInfoInputs.cache
+C:\Users\gerwin.vandijken\source\repos\Someren\SomerenModel\obj\Debug\net6.0\SomerenModel.AssemblyInfo.cs
+C:\Users\gerwin.vandijken\source\repos\Someren\SomerenModel\obj\Debug\net6.0\SomerenModel.csproj.CoreCompileInputs.cache
+C:\Users\gerwin.vandijken\source\repos\Someren\SomerenModel\obj\Debug\net6.0\SomerenModel.dll
+C:\Users\gerwin.vandijken\source\repos\Someren\SomerenModel\obj\Debug\net6.0\refint\SomerenModel.dll
+C:\Users\gerwin.vandijken\source\repos\Someren\SomerenModel\obj\Debug\net6.0\SomerenModel.pdb
+C:\Users\gerwin.vandijken\source\repos\Someren\SomerenModel\obj\Debug\net6.0\ref\SomerenModel.dll
+C:\Users\fredf\Documents\inholland\Term3\Project Database\Code\SomerenModel\bin\Debug\net6.0\SomerenModel.deps.json
+C:\Users\fredf\Documents\inholland\Term3\Project Database\Code\SomerenModel\bin\Debug\net6.0\SomerenModel.dll
+C:\Users\fredf\Documents\inholland\Term3\Project Database\Code\SomerenModel\bin\Debug\net6.0\SomerenModel.pdb
+C:\Users\fredf\Documents\inholland\Term3\Project Database\Code\SomerenModel\obj\Debug\net6.0\SomerenModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fredf\Documents\inholland\Term3\Project Database\Code\SomerenModel\obj\Debug\net6.0\SomerenModel.AssemblyInfoInputs.cache
+C:\Users\fredf\Documents\inholland\Term3\Project Database\Code\SomerenModel\obj\Debug\net6.0\SomerenModel.AssemblyInfo.cs
+C:\Users\fredf\Documents\inholland\Term3\Project Database\Code\SomerenModel\obj\Debug\net6.0\SomerenModel.csproj.CoreCompileInputs.cache
+C:\Users\fredf\Documents\inholland\Term3\Project Database\Code\SomerenModel\obj\Debug\net6.0\SomerenModel.dll
+C:\Users\fredf\Documents\inholland\Term3\Project Database\Code\SomerenModel\obj\Debug\net6.0\refint\SomerenModel.dll
+C:\Users\fredf\Documents\inholland\Term3\Project Database\Code\SomerenModel\obj\Debug\net6.0\SomerenModel.pdb
+C:\Users\fredf\Documents\inholland\Term3\Project Database\Code\SomerenModel\obj\Debug\net6.0\ref\SomerenModel.dll
+C:\Users\Vlad\Desktop\Code\SomerenModel\bin\Debug\net6.0\SomerenModel.deps.json
+C:\Users\Vlad\Desktop\Code\SomerenModel\bin\Debug\net6.0\SomerenModel.dll
+C:\Users\Vlad\Desktop\Code\SomerenModel\bin\Debug\net6.0\SomerenModel.pdb
+C:\Users\Vlad\Desktop\Code\SomerenModel\obj\Debug\net6.0\SomerenModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vlad\Desktop\Code\SomerenModel\obj\Debug\net6.0\SomerenModel.AssemblyInfoInputs.cache
+C:\Users\Vlad\Desktop\Code\SomerenModel\obj\Debug\net6.0\SomerenModel.AssemblyInfo.cs
+C:\Users\Vlad\Desktop\Code\SomerenModel\obj\Debug\net6.0\SomerenModel.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\Desktop\Code\SomerenModel\obj\Debug\net6.0\SomerenModel.dll
+C:\Users\Vlad\Desktop\Code\SomerenModel\obj\Debug\net6.0\refint\SomerenModel.dll
+C:\Users\Vlad\Desktop\Code\SomerenModel\obj\Debug\net6.0\SomerenModel.pdb
+C:\Users\Vlad\Desktop\Code\SomerenModel\obj\Debug\net6.0\ref\SomerenModel.dll

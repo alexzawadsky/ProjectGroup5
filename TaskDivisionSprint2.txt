@@ -1,0 +1,10 @@
+Prepare Visual Studio solution: 		Fred
+	(-> Create Github:			Aleksei)
+
+User Story “View all students“ (variant A):	Fred
+
+User Story “View all lecturers” (variant B):	Fred
+
+User Story “Manage drink supplies” (variant A):	Fred
+
+User Story “View all rooms(variant c):	        Aleksei

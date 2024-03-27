@@ -1,0 +1,172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Vlad\\Desktop\\Code\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1ACD0E00-C9A6-4C4F-AB3F-15F90A1F88BD}|SomerenDAL\\SomerenDAL.csproj|c:\\users\\vlad\\desktop\\code\\somerendal\\drinkdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ACD0E00-C9A6-4C4F-AB3F-15F90A1F88BD}|SomerenDAL\\SomerenDAL.csproj|solutionrelative:somerendal\\drinkdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01370907-9CCE-4AB8-BDEC-B86CBDF74774}|SomerenUI\\SomerenUI.csproj|c:\\users\\vlad\\desktop\\code\\somerenui\\somerenui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01370907-9CCE-4AB8-BDEC-B86CBDF74774}|SomerenUI\\SomerenUI.csproj|solutionrelative:somerenui\\somerenui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01370907-9CCE-4AB8-BDEC-B86CBDF74774}|SomerenUI\\SomerenUI.csproj|c:\\users\\vlad\\desktop\\code\\somerenui\\somerenui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{01370907-9CCE-4AB8-BDEC-B86CBDF74774}|SomerenUI\\SomerenUI.csproj|solutionrelative:somerenui\\somerenui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAD2ABE3-1FE0-4012-B6FC-E0679E41260C}|SomerenService\\SomerenService.csproj|c:\\users\\vlad\\desktop\\code\\somerenservice\\roomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAD2ABE3-1FE0-4012-B6FC-E0679E41260C}|SomerenService\\SomerenService.csproj|solutionrelative:somerenservice\\roomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ACD0E00-C9A6-4C4F-AB3F-15F90A1F88BD}|SomerenDAL\\SomerenDAL.csproj|c:\\users\\vlad\\desktop\\code\\somerendal\\roomdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ACD0E00-C9A6-4C4F-AB3F-15F90A1F88BD}|SomerenDAL\\SomerenDAL.csproj|solutionrelative:somerendal\\roomdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E9F2A97-3E00-4524-A821-F207C970A69A}|SomerenModel\\SomerenModel.csproj|c:\\users\\vlad\\desktop\\code\\somerenmodel\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E9F2A97-3E00-4524-A821-F207C970A69A}|SomerenModel\\SomerenModel.csproj|solutionrelative:somerenmodel\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ACD0E00-C9A6-4C4F-AB3F-15F90A1F88BD}|SomerenDAL\\SomerenDAL.csproj|c:\\users\\vlad\\desktop\\code\\somerendal\\lecturerdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ACD0E00-C9A6-4C4F-AB3F-15F90A1F88BD}|SomerenDAL\\SomerenDAL.csproj|solutionrelative:somerendal\\lecturerdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ACD0E00-C9A6-4C4F-AB3F-15F90A1F88BD}|SomerenDAL\\SomerenDAL.csproj|c:\\users\\vlad\\desktop\\code\\somerendal\\studentdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ACD0E00-C9A6-4C4F-AB3F-15F90A1F88BD}|SomerenDAL\\SomerenDAL.csproj|solutionrelative:somerendal\\studentdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAD2ABE3-1FE0-4012-B6FC-E0679E41260C}|SomerenService\\SomerenService.csproj|c:\\users\\vlad\\desktop\\code\\somerenservice\\lecturerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAD2ABE3-1FE0-4012-B6FC-E0679E41260C}|SomerenService\\SomerenService.csproj|solutionrelative:somerenservice\\lecturerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RoomDao.cs",
+              "DocumentMoniker": "C:\\Users\\Vlad\\Desktop\\Code\\SomerenDAL\\RoomDao.cs",
+              "RelativeDocumentMoniker": "SomerenDAL\\RoomDao.cs",
+              "ToolTip": "C:\\Users\\Vlad\\Desktop\\Code\\SomerenDAL\\RoomDao.cs",
+              "RelativeToolTip": "SomerenDAL\\RoomDao.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T19:42:56.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RoomService.cs",
+              "DocumentMoniker": "C:\\Users\\Vlad\\Desktop\\Code\\SomerenService\\RoomService.cs",
+              "RelativeDocumentMoniker": "SomerenService\\RoomService.cs",
+              "ToolTip": "C:\\Users\\Vlad\\Desktop\\Code\\SomerenService\\RoomService.cs",
+              "RelativeToolTip": "SomerenService\\RoomService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T19:39:59.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SomerenUI.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Vlad\\Desktop\\Code\\SomerenUI\\SomerenUI.cs",
+              "RelativeDocumentMoniker": "SomerenUI\\SomerenUI.cs",
+              "ToolTip": "C:\\Users\\Vlad\\Desktop\\Code\\SomerenUI\\SomerenUI.cs [Design]",
+              "RelativeToolTip": "SomerenUI\\SomerenUI.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T19:36:44.047Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SomerenUI.cs",
+              "DocumentMoniker": "C:\\Users\\Vlad\\Desktop\\Code\\SomerenUI\\SomerenUI.cs",
+              "RelativeDocumentMoniker": "SomerenUI\\SomerenUI.cs",
+              "ToolTip": "C:\\Users\\Vlad\\Desktop\\Code\\SomerenUI\\SomerenUI.cs",
+              "RelativeToolTip": "SomerenUI\\SomerenUI.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwDcAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T19:36:49.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DrinkDao.cs",
+              "DocumentMoniker": "C:\\Users\\Vlad\\Desktop\\Code\\SomerenDAL\\DrinkDao.cs",
+              "RelativeDocumentMoniker": "SomerenDAL\\DrinkDao.cs",
+              "ToolTip": "C:\\Users\\Vlad\\Desktop\\Code\\SomerenDAL\\DrinkDao.cs",
+              "RelativeToolTip": "SomerenDAL\\DrinkDao.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T19:44:22.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Room.cs",
+              "DocumentMoniker": "C:\\Users\\Vlad\\Desktop\\Code\\SomerenModel\\Room.cs",
+              "RelativeDocumentMoniker": "SomerenModel\\Room.cs",
+              "ToolTip": "C:\\Users\\Vlad\\Desktop\\Code\\SomerenModel\\Room.cs",
+              "RelativeToolTip": "SomerenModel\\Room.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T19:47:14.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LecturerDao.cs",
+              "DocumentMoniker": "C:\\Users\\Vlad\\Desktop\\Code\\SomerenDAL\\LecturerDao.cs",
+              "RelativeDocumentMoniker": "SomerenDAL\\LecturerDao.cs",
+              "ToolTip": "C:\\Users\\Vlad\\Desktop\\Code\\SomerenDAL\\LecturerDao.cs",
+              "RelativeToolTip": "SomerenDAL\\LecturerDao.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T19:40:16.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StudentDao.cs",
+              "DocumentMoniker": "C:\\Users\\Vlad\\Desktop\\Code\\SomerenDAL\\StudentDao.cs",
+              "RelativeDocumentMoniker": "SomerenDAL\\StudentDao.cs",
+              "ToolTip": "C:\\Users\\Vlad\\Desktop\\Code\\SomerenDAL\\StudentDao.cs",
+              "RelativeToolTip": "SomerenDAL\\StudentDao.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T19:40:47.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LecturerService.cs",
+              "DocumentMoniker": "C:\\Users\\Vlad\\Desktop\\Code\\SomerenService\\LecturerService.cs",
+              "RelativeDocumentMoniker": "SomerenService\\LecturerService.cs",
+              "ToolTip": "C:\\Users\\Vlad\\Desktop\\Code\\SomerenService\\LecturerService.cs",
+              "RelativeToolTip": "SomerenService\\LecturerService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T19:41:15.506Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

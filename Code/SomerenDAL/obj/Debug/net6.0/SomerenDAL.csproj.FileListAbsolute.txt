@@ -43,3 +43,18 @@ C:\Users\Vlad\Desktop\Code\SomerenDAL\obj\Debug\net6.0\SomerenDAL.dll
 C:\Users\Vlad\Desktop\Code\SomerenDAL\obj\Debug\net6.0\refint\SomerenDAL.dll
 C:\Users\Vlad\Desktop\Code\SomerenDAL\obj\Debug\net6.0\SomerenDAL.pdb
 C:\Users\Vlad\Desktop\Code\SomerenDAL\obj\Debug\net6.0\ref\SomerenDAL.dll
+C:\Users\fredf\Documents\inholland\Term3\Project Database\CloneCode\ProjectGroup5\Code\SomerenDAL\bin\Debug\net6.0\SomerenDAL.deps.json
+C:\Users\fredf\Documents\inholland\Term3\Project Database\CloneCode\ProjectGroup5\Code\SomerenDAL\bin\Debug\net6.0\SomerenDAL.dll
+C:\Users\fredf\Documents\inholland\Term3\Project Database\CloneCode\ProjectGroup5\Code\SomerenDAL\bin\Debug\net6.0\SomerenDAL.pdb
+C:\Users\fredf\Documents\inholland\Term3\Project Database\CloneCode\ProjectGroup5\Code\SomerenDAL\bin\Debug\net6.0\SomerenModel.dll
+C:\Users\fredf\Documents\inholland\Term3\Project Database\CloneCode\ProjectGroup5\Code\SomerenDAL\bin\Debug\net6.0\SomerenModel.pdb
+C:\Users\fredf\Documents\inholland\Term3\Project Database\CloneCode\ProjectGroup5\Code\SomerenDAL\obj\Debug\net6.0\SomerenDAL.csproj.AssemblyReference.cache
+C:\Users\fredf\Documents\inholland\Term3\Project Database\CloneCode\ProjectGroup5\Code\SomerenDAL\obj\Debug\net6.0\SomerenDAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fredf\Documents\inholland\Term3\Project Database\CloneCode\ProjectGroup5\Code\SomerenDAL\obj\Debug\net6.0\SomerenDAL.AssemblyInfoInputs.cache
+C:\Users\fredf\Documents\inholland\Term3\Project Database\CloneCode\ProjectGroup5\Code\SomerenDAL\obj\Debug\net6.0\SomerenDAL.AssemblyInfo.cs
+C:\Users\fredf\Documents\inholland\Term3\Project Database\CloneCode\ProjectGroup5\Code\SomerenDAL\obj\Debug\net6.0\SomerenDAL.csproj.CoreCompileInputs.cache
+C:\Users\fredf\Documents\inholland\Term3\Project Database\CloneCode\ProjectGroup5\Code\SomerenDAL\obj\Debug\net6.0\SomerenDAL.csproj.CopyComplete
+C:\Users\fredf\Documents\inholland\Term3\Project Database\CloneCode\ProjectGroup5\Code\SomerenDAL\obj\Debug\net6.0\SomerenDAL.dll
+C:\Users\fredf\Documents\inholland\Term3\Project Database\CloneCode\ProjectGroup5\Code\SomerenDAL\obj\Debug\net6.0\refint\SomerenDAL.dll
+C:\Users\fredf\Documents\inholland\Term3\Project Database\CloneCode\ProjectGroup5\Code\SomerenDAL\obj\Debug\net6.0\SomerenDAL.pdb
+C:\Users\fredf\Documents\inholland\Term3\Project Database\CloneCode\ProjectGroup5\Code\SomerenDAL\obj\Debug\net6.0\ref\SomerenDAL.dll

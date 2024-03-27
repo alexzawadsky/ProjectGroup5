@@ -32,3 +32,14 @@ C:\Users\Vlad\Desktop\Code\SomerenModel\obj\Debug\net6.0\SomerenModel.dll
 C:\Users\Vlad\Desktop\Code\SomerenModel\obj\Debug\net6.0\refint\SomerenModel.dll
 C:\Users\Vlad\Desktop\Code\SomerenModel\obj\Debug\net6.0\SomerenModel.pdb
 C:\Users\Vlad\Desktop\Code\SomerenModel\obj\Debug\net6.0\ref\SomerenModel.dll
+C:\Users\fredf\Documents\inholland\Term3\Project Database\CloneCode\ProjectGroup5\Code\SomerenModel\bin\Debug\net6.0\SomerenModel.deps.json
+C:\Users\fredf\Documents\inholland\Term3\Project Database\CloneCode\ProjectGroup5\Code\SomerenModel\bin\Debug\net6.0\SomerenModel.dll
+C:\Users\fredf\Documents\inholland\Term3\Project Database\CloneCode\ProjectGroup5\Code\SomerenModel\bin\Debug\net6.0\SomerenModel.pdb
+C:\Users\fredf\Documents\inholland\Term3\Project Database\CloneCode\ProjectGroup5\Code\SomerenModel\obj\Debug\net6.0\SomerenModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fredf\Documents\inholland\Term3\Project Database\CloneCode\ProjectGroup5\Code\SomerenModel\obj\Debug\net6.0\SomerenModel.AssemblyInfoInputs.cache
+C:\Users\fredf\Documents\inholland\Term3\Project Database\CloneCode\ProjectGroup5\Code\SomerenModel\obj\Debug\net6.0\SomerenModel.AssemblyInfo.cs
+C:\Users\fredf\Documents\inholland\Term3\Project Database\CloneCode\ProjectGroup5\Code\SomerenModel\obj\Debug\net6.0\SomerenModel.csproj.CoreCompileInputs.cache
+C:\Users\fredf\Documents\inholland\Term3\Project Database\CloneCode\ProjectGroup5\Code\SomerenModel\obj\Debug\net6.0\SomerenModel.dll
+C:\Users\fredf\Documents\inholland\Term3\Project Database\CloneCode\ProjectGroup5\Code\SomerenModel\obj\Debug\net6.0\refint\SomerenModel.dll
+C:\Users\fredf\Documents\inholland\Term3\Project Database\CloneCode\ProjectGroup5\Code\SomerenModel\obj\Debug\net6.0\SomerenModel.pdb
+C:\Users\fredf\Documents\inholland\Term3\Project Database\CloneCode\ProjectGroup5\Code\SomerenModel\obj\Debug\net6.0\ref\SomerenModel.dll

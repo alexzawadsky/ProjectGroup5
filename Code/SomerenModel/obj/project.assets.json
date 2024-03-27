@@ -8,19 +8,24 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Vlad\\.nuget\\packages\\": {}
+    "C:\\Users\\fredf\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Vlad\\Desktop\\Code\\SomerenModel\\SomerenModel.csproj",
+      "projectUniqueName": "C:\\Users\\fredf\\Documents\\inholland\\Term3\\Project Database\\CloneCode\\ProjectGroup5\\Code\\SomerenModel\\SomerenModel.csproj",
       "projectName": "SomerenModel",
-      "projectPath": "C:\\Users\\Vlad\\Desktop\\Code\\SomerenModel\\SomerenModel.csproj",
-      "packagesPath": "C:\\Users\\Vlad\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Vlad\\Desktop\\Code\\SomerenModel\\obj\\",
+      "projectPath": "C:\\Users\\fredf\\Documents\\inholland\\Term3\\Project Database\\CloneCode\\ProjectGroup5\\Code\\SomerenModel\\SomerenModel.csproj",
+      "packagesPath": "C:\\Users\\fredf\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\fredf\\Documents\\inholland\\Term3\\Project Database\\CloneCode\\ProjectGroup5\\Code\\SomerenModel\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Vlad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\fredf\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -40,11 +45,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -66,7 +66,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }

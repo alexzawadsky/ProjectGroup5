@@ -8,6 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = SomerenDAL
-build_property.ProjectDir = C:\Users\Vlad\Desktop\Code\SomerenDAL\
-build_property.EnableComHosting = 
-build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.ProjectDir = C:\Users\fredf\Documents\inholland\Term3\Project Database\CloneCode\ProjectGroup5\Code\SomerenDAL\

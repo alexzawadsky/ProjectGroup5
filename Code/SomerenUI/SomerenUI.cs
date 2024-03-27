@@ -5,6 +5,8 @@ using System.Collections.Generic;
 using System;
 using SomerenDAL;
 
+//Test comment for git
+
 namespace SomerenUI
 {
     public partial class SomerenUI : Form
